@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\Pause.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\Authors.cs" Line="20" Column="107" />
+      <File FileName="Assets\Resources\Scripts\ButtonMainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\ButtonTryAgain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Cactus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Destroying1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Destroying2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Impact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\LogoSettings.cs" Line="19" Column="22" />
+      <File FileName="Assets\Resources\Scripts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Pause.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\playerscript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\RendererExtensions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\ScriptScrolling.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\ScriptScrolling1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Settings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\YouScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\AddScore.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
